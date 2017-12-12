@@ -20,8 +20,9 @@ Download from here: https://github.com/nishittated/Pacman-Game
 
 Tested with [PyGame 2.7] and [Python 3.5 64bit]
 
+# Developed By:  Nishit Tated
+
 ### Support or Contact
 
 Instagram:  https://www.instagram.com/nishit.tated/
-
 Facebook :  https://www.facebook.com/nishit.tated
