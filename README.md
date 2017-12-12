@@ -24,5 +24,5 @@ Tested with [PyGame 2.7] and [Python 3.5 64bit]
 
 ### Support or Contact
 
-Instagram:  https://www.instagram.com/nishit.tated/
-Facebook :  https://www.facebook.com/nishit.tated
+* Instagram:  https://www.instagram.com/nishit.tated/
+* Facebook :  https://www.facebook.com/nishit.tated
