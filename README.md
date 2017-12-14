@@ -18,7 +18,7 @@ Download from here: https://github.com/nishittated/Pacman-Game
 * Additional levels
 
 
-Tested with [PyGame 2.7] and [Python 3.5 64bit]
+Tested with [Python 2.7] and [Python 3.5 64bit]
 
 # Developed By:  Nishit Tated
 
