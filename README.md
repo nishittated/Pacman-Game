@@ -27,4 +27,4 @@ Tested with [Python 2.7 in Ubuntu 14.04.3] and [Python 3.5 in Windows 10 64bit]
 * <a href="https://www.facebook.com/nishit.tated/">Facebook</a>
 
 # Contributing to Pacman-Game
-* All pull requests are welcome, make sure to follow the <a href="https://github.com/nishittated/Pacman-Game/blob/master/CONTRIBUTNG.MD">contribution guidelines </a>when you submit pull request.
+* All pull requests are welcome, make sure to follow the <a href="https://github.com/nishittated/Pacman-Game/blob/master/CONTRIBUTING.md">contribution guidelines </a>when you submit pull request.
