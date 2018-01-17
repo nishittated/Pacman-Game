@@ -3,9 +3,11 @@
 # Pacman in Python with PyGame
 This is a very minimal implementation of the Pacman game, having only one level and without ghosts strategy, not even with random movements (yes, the routes are programmed). However, we may improve this game in the future and everyone else interested can feel free to fork and contribute to this project.
 
-Download from here: https://github.com/nishittated/Pacman-Game
+# Pacman Game Window
+<img src="https://github.com/nishittated/Pacman-Game/blob/master/images/pacman.jpg" alt="Pacman Window" />
 
-![Pacman Game Window]: https://github.com/nishittated/Pacman-Game/blob/master/images/pacman.jpg
+# Download from here: https://github.com/nishittated/Pacman-Game
+
 
 # Future development
 * Fix Pacman's movement
