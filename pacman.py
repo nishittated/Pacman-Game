@@ -92,7 +92,7 @@ def setupRoomOne(all_sprites_list):
          
     # return our new list
     return wall_list
-
+ 
 def setupGate(all_sprites_list):
       gate = pygame.sprite.RenderPlain()
       gate.add(Wall(282,242,42,2,white))
