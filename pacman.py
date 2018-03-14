@@ -28,7 +28,7 @@ class Wall(pygame.sprite.Sprite):
     def __init__(self,x,y,width,height, color):
         # Call the parent's constructor
         pygame.sprite.Sprite.__init__(self)
-  
+   
         # Make a blue wall, of the size specified in the parameters
         self.image = pygame.Surface([width, height])
         self.image.fill(color)
