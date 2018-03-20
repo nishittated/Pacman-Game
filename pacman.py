@@ -3,7 +3,7 @@ try:
     pygame_sdl2.import_as_pygame() 
 except ImportError: 
         pass
-
+    
 import pygame
   
 black = (0,0,0)
